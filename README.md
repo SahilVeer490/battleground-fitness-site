@@ -21,6 +21,3 @@ Open `index.html` in a browser, or serve this folder with any static file server
 - Current availability of trainers, sports nutrition guidance, steam room and lockers.
 - Permission to publish the supplied brand imagery and video.
 
-## Owner pitch
-
-Show the site on a phone first. Point out that a nearby searcher can understand the training options, see the club visuals, get directions, and ask about membership in one flow. Then ask the owners to confirm hours, current rates, and preferred photos so the preview can become the official site. Offer to connect their domain and update the page once those details are approved.
